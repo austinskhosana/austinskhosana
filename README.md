@@ -1,12 +1,3 @@
-<h1 align="center">Hey, I'm Austin 👋</h1>
-<h3 align="center">Product & UX Designer who ships in code</h3>
-
-<p align="center">
-  Sandton, Johannesburg 🇿🇦 · Building <a href="#">Creatorshop</a> & <a href="#">Pixel Vault</a>
-</p>
-
----
-
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡆⠀⠀⠀⠀⠀⠀⠀⠀   austin ------------------------------
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀   Role: ............ Product & UX Designer
