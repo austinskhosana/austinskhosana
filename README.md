@@ -21,4 +21,4 @@ I'm a product designer sharpening my engineering chops so I can take ideas from 
 production myself clean HTML/CSS, deep into JavaScript right now, building on **Next.js**,
 **React**, and **Vercel**. I care about design systems that hold up in real components beyond the design canvas. 
 Currently building **Creatorshop**, a way for creators to purchase goods
-and services using posts.
+and services using posts, a mission to build the infrastructure to make social capital a financial primitive.
